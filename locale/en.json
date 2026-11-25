@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Remote access",
+    "description": "Serves the official dsh web GUI on one fixed local port for phones and other PCs, gated by a QR pairing code or a passphrase, with mobile adaptation and a sidebar panel to manage it."
+  }
+}
